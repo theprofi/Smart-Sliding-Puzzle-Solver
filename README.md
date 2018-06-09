@@ -5,4 +5,4 @@ Android app which solves a n*m sliding puzzle game using heuristics and algorith
 Install the APK located here:<br>Smart-Sliding-Puzzle-Solver/app/release/app-release.apk<br>
 <br>
 Or, install from Google Play Store:<br>
-<a href="#">TBD</a>
+<a href="https://play.google.com/store/apps/details?id=com.slidingpuzzlesolver.elkadakh.sliding_puzzle_solver">https://play.google.com/store/apps/details?id=com.slidingpuzzlesolver.elkadakh.sliding_puzzle_solver</a>
